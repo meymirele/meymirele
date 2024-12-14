@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="100" />
 </p>
 
+https://github-readme-stats.vercel.app/api?username={meymirele}&theme=blue-green
+
 
 
 
