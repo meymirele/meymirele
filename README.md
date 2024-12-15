@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="100" />
+  ![meymirele's Stats](https://github-readme-stats.vercel.app/api?username=meymirele&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![meymirele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meymirele&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 
