@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Javascript
 - 👨‍💻 I am a systems analysis and development student studying the 5th semester
 
-![meymirele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meymirele&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![meymirele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meymirele&theme=dracula&show_icons=true&hide_border=true&layout=compact) ![meymirele's Stats](https://github-readme-stats.vercel.app/api?username=meymirele&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
