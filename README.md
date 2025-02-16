@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mirele 👋
 
 - 🔭 Web/Mobile/Systems development
-- 🌱 I'm currently learning Javascript
+- 🌱 I'm currently learning Typescript
 - 👨‍💻 I am a systems analysis and development student studying the 5th semester
 
 ![meymirele's Stats](https://github-readme-stats.vercel.app/api?username=meymirele&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![meymirele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meymirele&theme=dracula&show_icons=true&hide_border=true&layout=compact)
