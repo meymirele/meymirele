@@ -4,21 +4,23 @@
 
 Me chamo Mirele Dias, tenho 23 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonada por tecnologia desde que tive meu primeiro contato com programação, foi como descobrir um novo universo onde posso criar, resolver problemas e transformar ideias em realidade.
 <p align="left">
-  <a href="https://github.com/meymirele?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-     <a href="https://www.linkedin.com/in/meymirele/" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-mirele-dias-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn" 
-    title="Me adicione no LinkedIn!"
-  />
-</a>
+  <a href="https://github.com/meymirele?tab=repositories&sort=stargazers" target="_blank">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/meymirele?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mirele-dias/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Mirele%20Dias-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      title="Me adicione no LinkedIn!"
+    />
+  </a>
 </p>
+
 
 ---
 
