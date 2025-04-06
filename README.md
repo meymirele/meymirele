@@ -7,8 +7,7 @@ Me chamo Mirele Dias, tenho 23 anos. Atualmente, estou cursando Análise e Desen
   <a 
     href="https://github.com/meymirele?tab=repositories&sort=stargazers" 
     target="_blank" 
-    style="text-decoration: none;"
-  >
+    style="text-decoration: none;">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
