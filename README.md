@@ -10,12 +10,13 @@ Me chamo Mirele Dias, tenho 23 anos. Atualmente, estou cursando Análise e Desen
     style="text-decoration: none;"
   >
     <img 
-      src="https://img.shields.io/badge/LinkedIn-Mirele%20Dias-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn-Mirele%20Dias-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
       title="Me adicione no LinkedIn!"
     />
   </a>
 </p>
+
 
 
 
