@@ -1,4 +1,4 @@
-## 👩🏻‍💻Mirele Dias
+## 👩🏻‍💻 Mirele Dias
 
 - 🔭 Web/Mobile/Systems development
 - 🌱 I'm currently learning Typescript
@@ -70,6 +70,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<br>
 
 ### 📊 Estatísticas
 
@@ -81,7 +82,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=meymirele&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
