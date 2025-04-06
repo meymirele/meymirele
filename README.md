@@ -15,6 +15,12 @@ Me chamo Mirele Dias, tenho 23 anos. Atualmente, estou cursando Análise e Desen
       src="https://custom-icon-badges.demolab.com/github/stars/meymirele?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
   </a>
+
+  <a 
+    href="https://www.linkedin.com/in/mirele-dias/" 
+    target="_blank" 
+    style="text-decoration: none;"
+  >
     <img 
       src="https://img.shields.io/badge/LinkedIn-Mirele%20Dias-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
@@ -22,6 +28,7 @@ Me chamo Mirele Dias, tenho 23 anos. Atualmente, estou cursando Análise e Desen
     />
   </a>
 </p>
+
 
 
 ---
