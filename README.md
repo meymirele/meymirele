@@ -33,8 +33,5 @@ Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento d
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=meymirele&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meymirele&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=meymirele&theme=radical" />
 </p>
-
