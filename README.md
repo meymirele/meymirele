@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento de Sistemas e vejo a programação como um universo de possibilidades infinitas. Desde o meu primeiro "Hello World", percebi que codar é mais do que escrever linhas: é a arte de construir o futuro. Sou apaixonada por tecnologia e motivada pelo desafio de transformar conceitos abstratos em aplicações funcionais e inovadoras.
+Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento de Sistemas e vejo a programação como um universo de possibilidades infinitas. Desde o meu primeiro "hello world", percebi que codar é mais do que escrever linhas: é a arte de construir o futuro. Sou apaixonada por tecnologia e motivada pelo desafio de transformar conceitos abstratos em aplicações funcionais e inovadoras.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mirele-dias-a5b552265/" target="_blank">
