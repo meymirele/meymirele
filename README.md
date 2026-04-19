@@ -14,7 +14,7 @@ Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento d
 
 ### 🛠️ Linguagens e Tecnologias
 
-<div display="inline-block">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" title=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />
@@ -26,7 +26,8 @@ Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
-</div>
+</p>
+
 
 ---
 
