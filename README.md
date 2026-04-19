@@ -14,10 +14,9 @@ Me chamo Mirele Dias, tenho 24 anos. Sou formada em Análise e Desenvolvimento d
 
 ### 🛠️ Linguagens e Tecnologias
 
-| | | | | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> | <img src="https://jsdelivr.net" width="45" height="45" /> |
-
+<p align="left">
+  <img src="https://jsdelivr.net" width="45" height="45" alt="C#" /> <img src="https://jsdelivr.net" width="45" height="45" alt=".NET" /> <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" /> <img src="https://jsdelivr.net" width="45" height="45" alt="CSS3" /> <img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" /> <img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" /> <img src="https://jsdelivr.net" width="45" height="45" alt="React" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Angular" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Bootstrap" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Tailwind" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Git" />
+</p>
 ---
 
 ### 📊 Estatísticas
