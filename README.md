@@ -3,8 +3,7 @@
 ###
 
 <p align="center">
-  Sou formada em Análise e Desenvolvimento de Sistemas e atuo na área de tecnologia como Analista de Sistemas.
-  Tenho interesse em desenvolvimento FullStack e estou sempre buscando aprimorar meus conhecimentos em programação.
+  Analista de Sistemas formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento FullStack.
 </p>
 
 ###
