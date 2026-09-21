@@ -4,8 +4,7 @@
 
 <p align="center">
   Sou formada em Análise e Desenvolvimento de Sistemas e atuo na área de tecnologia como Analista de Sistemas.
-  Tenho interesse em desenvolvimento FullStack e estou sempre buscando aprimorar meus conhecimentos em programação,
-  especialmente com C#, .NET, Angular, TypeScript e banco de dados.
+  Tenho interesse em desenvolvimento FullStack e estou sempre buscando aprimorar meus conhecimentos em programação.
 </p>
 
 ###
