@@ -2,6 +2,14 @@
 
 ###
 
+<p align="center">
+  Sou formada em Análise e Desenvolvimento de Sistemas e atuo na área de tecnologia como Analista de Sistemas.
+  Tenho interesse em desenvolvimento FullStack e estou sempre buscando aprimorar meus conhecimentos em programação,
+  especialmente com C#, .NET, Angular, TypeScript e banco de dados.
+</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
