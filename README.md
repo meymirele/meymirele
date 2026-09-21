@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  Analista de Sistemas formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento FullStack.
+  Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web.
 </p>
 
 ###
