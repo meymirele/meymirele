@@ -2,11 +2,9 @@
 
 ###
 
-<p align="center">
+<p align="center"> Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>  <p align="center">
   <img src="https://i.pinimg.com/originals/4e/9a/0a/4e9a0acf99e7d25da9536940437c69b8.gif" width="300" alt="anime gif">
 </p>
-
-<p align="center"> Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>
 
 ###
 
