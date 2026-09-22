@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=600&size=42&duration=180&pause=2500&color=FF69B4&center=true&vCenter=true&width=750&height=80&lines=Hello+World%2C+I'm+Mirele+%E2%99%A1&cursor=true&cursorStyle=bar" alt="Hello World, I'm Mirele ♡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=600&size=42&duration=350&pause=3000&color=FF69B4&center=true&vCenter=true&width=750&height=80&lines=Hello+World%2C+I'm+Mirele+%E2%99%A1&cursor=true&cursorStyle=bar" alt="Hello World, I'm Mirele ♡" />
 </p>
 
 ###
