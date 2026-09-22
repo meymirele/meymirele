@@ -1,8 +1,8 @@
-<h1 align="center">Hello World, I'm Mirele.</h1>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Mirele." alt="Hello World, I'm Mirele." /> </p>
 
 ###
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Mirele." alt="Hello World, I'm Mirele." /> </p>
+<p align="center"> Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>
 
 ###
 
