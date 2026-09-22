@@ -48,12 +48,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meymirele/meymirele/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meymirele/meymirele/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meymirele/meymirele/output/pacman-contribution-graph.svg">
