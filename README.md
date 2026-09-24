@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center"> Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>
+<p align="center"> Me chamdo Mirele Dias e sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>
 
 ###
 
