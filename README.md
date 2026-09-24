@@ -1,6 +1,9 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=600&size=42&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=80&lines=Hello+World%2C+I'm+Mirele+%E2%99%A1" alt="Hello World, I'm Mirele ♡" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=80&lines=Hello+World%2C+I'm+Mirele+%E2%99%A1" alt="Hello World, I'm Mirele ♡" />
 </p>
+
+
 
 ###
 
