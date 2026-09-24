@@ -6,7 +6,11 @@
 
 ###
 
-<p align="center"> Me chamdo Mirele Dias e sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web. </p>
+<img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/9b/88/27/9b8827618e3ba9eb22fa9f573e75829d.gif">
+
+<p align="left">
+  Me chamo Mirele Dias e sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web.
+</p>
 
 ###
 
@@ -38,7 +42,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mirele-dias-a5b552265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
@@ -65,3 +69,4 @@
 </picture>
 
 ###
+
