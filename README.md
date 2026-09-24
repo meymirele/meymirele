@@ -6,8 +6,6 @@
 
 ###
 
-<img align="right" alt="GIF" height="190px" src="https://i.pinimg.com/originals/9b/88/27/9b8827618e3ba9eb22fa9f573e75829d.gif">
-
 <p align="left">
   Me chamo Mirele Dias e sou formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de software e soluções FullStack para a web.
 </p>
@@ -67,6 +65,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> 
+</picture> 
 
 ###
 
