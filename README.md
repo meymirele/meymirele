@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Olá! Me chamo Mirele Dias, sou formada em Análise e Desenvolvimento de Sistemas e atuo como <b>Desenvolvedora Full Stack</b> com mais de 1 ano de experiência na criação de soluções corporativas. 
+  Olá! Me chamo Mirele Dias, sou formada em Análise e Desenvolvimento de Sistemas e atuo como <b>Desenvolvedora Full Stack</b> com +1 ano de experiência na criação de soluções corporativas. 
 </p>
 <p align="left">
   Tenho forte vivência em <b>Front-end</b>, focando na construção de interfaces dinâmicas, componentizadas e responsivas com Angular, TypeScript e JavaScript. No <b>Back-end</b>, atuo na manutenção e integração de APIs REST utilizando C# e .NET. Trabalho diariamente com metodologias ágeis (Scrum e Kanban) de forma colaborativa para entregas contínuas, buscando sempre evoluir tecnicamente e contribuir com o time.
